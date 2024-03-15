@@ -1,0 +1,8 @@
+{
+    "Block number": 3,
+    "Hash": "00000d7699565c3169e6e36c3c05ee417bf4a3543bb4c335160d6485af5d90a7",
+    "Mined by": "Bob",
+    "Nonce": 1000168474,
+    "Time": 1708864365.3045871,
+    "Transaction": "[5, 6, 7, 8]"
+}
